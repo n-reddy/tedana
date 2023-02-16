@@ -100,7 +100,7 @@ make sure to output the denoised time series into a separate directory.
 
 The decision tree is the series of conditions through which each component is
 classified as accepted or rejected. The kundu tree (`--tree kundu`), used in Prantik
-Kundu's MEICA v2.7, is the classification process that has long
+Kundu's MEICA v2.5, is the classification process that has long
 been used by ``tedana`` and users have been generally content with the results. The
 kundu tree used multiple intersecting metrics and rankings to classify components.
 How these steps may interact on specific datasets is opaque. While there is a kappa
